@@ -14,9 +14,15 @@ Qual era o objetivo? Criar uma aplicação onde os usuários pudessem adicionar 
 - Sem amigos: não é possível sortear um nome se todos já tiverem sido sorteados;
 - Uma pelúcia da Hatsune Miku.
 
-## Como usar:
-É só baixar o arquivo aqui mesmo no git e abrir index.html pra testar
+## Tecnologias utilizadas:
+- HTML: Para estruturar o conteúdo da página.
+- CSS: Para estilizar a página.
+- JavaScript: Para implementar a lógica.
 
+## Como usar:
+Clone este repositório para sua máquina local:
+git clone https://github.com/seu-usuario/amigo-secreto.git
+ 
 ## Assim como eu não sabe usar o git e tá aprendendo agora?<br>
 Oras, deveria ter dito antes<br>
 No Vercel é possível usar a aplicação gratuitamente sem problema algum acessando o link abaixo que se dá pela palavra 'LINK':<br>

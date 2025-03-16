@@ -19,8 +19,8 @@ Qual era o objetivo? Criar uma aplicação onde os usuários pudessem adicionar 
 
 ## Assim como eu não sabe usar o git e tá aprendendo agora?<br>
 Oras, deveria ter dito antes<br>
-No Vercel é possível usar a aplicação gratuitamente sem problema algum acessando o link abaixo:<br>
-LINK
+No Vercel é possível usar a aplicação gratuitamente sem problema algum acessando o link abaixo que se dá pela palavra 'LINK':<br>
+[LINK](https://amigo-secreto-psi-sepia.vercel.app)
 
 ## Ficou impressionado(a) com as habilidades básicas de programação deste quem vos fala?
 É possível ver meu linkedin cheio de experiências nada a ver com programação nesse link aqui: https://www.linkedin.com/in/braianmezalira/ <br>
